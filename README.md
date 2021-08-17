@@ -4,7 +4,7 @@ Midfielders are extremely important players on the field. In addition, there are
 
 Tools used:
 
-  Python
-  Principal Component Analysis
-  MinMax Scaling
-  K-Means Clustering
+    Python
+    Principal Component Analysis
+    MinMax Scaling
+    K-Means Clustering
