@@ -8,3 +8,9 @@ Tools used:
     Principal Component Analysis
     MinMax Scaling
     K-Means Clustering
+
+First I reduced the dimensions to 2 using PCA. I checked the data distribtion using the reduced data set. You can use PCA notebook to and PCA image to check the same.
+Then I scaled the data between 0 to 1 using MinMaxSCaling technique which is available in sklearn library.
+Finally divided the data in 3 clusters (which was optimum as checked by using Elbow Evaluation technique).
+
+You can check and implement by yourself using the data set and the zipped notebook which is attached to this repo.
